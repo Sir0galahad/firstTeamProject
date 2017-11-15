@@ -43,5 +43,6 @@ public class Game {
         for (int i = 0; i < Contacts.length; i++) {
             System.out.println(Contacts[i].toString());
         }
+        System.out.println("OwO whats this");
     }
 }
